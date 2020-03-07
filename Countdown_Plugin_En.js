@@ -14,4 +14,4 @@ var x = setInterval(function() {
     document.getElementById("countdown").innerHTML = "Expired Text Here"; // Set your own text when the time has expired
   }
 }, 1000);
-// Countdown plugin by ...
+// Countdown plugin by finallight1
