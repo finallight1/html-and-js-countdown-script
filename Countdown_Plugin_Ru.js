@@ -14,4 +14,4 @@ var x = setInterval(function() {
     document.getElementById("countdown").innerHTML = "Конечный текст тут"; // Сдесь ставьте текст когда время закончиться.
   }
 }, 1000);
-// Скрипт Обратного Отчёта сделан ...
+// Скрипт Обратного Отчёта сделан finallight1
